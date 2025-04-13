@@ -1,3 +1,3 @@
 ## This is main
 
-[Inventory](./NewInventory.html).
+[Inventory](./NewInventory/).
