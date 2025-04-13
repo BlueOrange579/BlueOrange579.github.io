@@ -1,3 +1,3 @@
-layout: default
-
 ## This is main
+
+[Inventory](./newInventory.html).
