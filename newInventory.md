@@ -1,3 +1,3 @@
 layout: page
-title: "NewInventory"
-permalink: /NewInventory
+title: NewInventory
+permalink: /NewInventory/
