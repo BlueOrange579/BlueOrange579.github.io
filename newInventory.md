@@ -1,3 +1,6 @@
-layout: page
+---
+layout: default
+---
 title: NewInventory
-permalink: /NewInventory/
+
+[back](./)
