@@ -6,7 +6,6 @@ To further showcase my skills, I have worked on enhancing a project I completed 
 
 ## Projects 
 - **Code Review -> [Video](https://youtu.be/nRiu9AYg9zE)**
-- **Original Artifact -> [Project](OriginalArtifact/OriginalArtifact.md)**
 - **Software Desing Enhancement -> [Project](SoftwareDesign/SoftwareDesign.md)**
 - **Data Structure and Algorithm Enhancement -> [Project](DataStructures_Algorithms/DataStructure.md)**
 - **Database Enhancement -> [Project](Database/Database.md)**
