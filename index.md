@@ -5,7 +5,8 @@ The work that I have done throughout the program and working on my ePortfolio ha
 To further showcase my skills, I have worked on enhancing a project I completed a few years back by updating its design, using a different data structure, and implementing a database. The original artifact I used is a console item inventory management using C++, which allows users to add and display the items. On one of the versions of the enhanced artifact, I updated its design by taking an OOP approach and having separate files while creating a GUI for easy navigation using Raylib. In the next version, I updated the data structure in use instead of the dynamic array that I originally used. I replaced it with a map and implemented more functionality, such as edit and delete. In the last version, I enhanced it by implementing a database using MySQL.
 
 ## Projects 
+- **Code Review -> [Video](https://youtu.be/nRiu9AYg9zE)**
 - **Original Artifact -> [Project](OriginalArtifact/OriginalArtifact.md)**
-- **System Desing Enhancement -> [Project](SystemDesign/SystemDesign.md)**
+- **Software Desing Enhancement -> [Project](SoftwareDesign/SoftwareDesign.md)**
 - **Data Structure and Algorithm Enhancement -> [Project](DataStructures_Algorithms/DataStructure.md)**
 - **Database Enhancement -> [Project](Database/Database.md)**
