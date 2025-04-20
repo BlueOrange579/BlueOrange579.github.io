@@ -7,5 +7,5 @@ To further showcase my skills, I have worked on enhancing a project I completed 
 ## Projects 
 - **Original Artifact -> [Project](OriginalArtifact/OriginalArtifact.md)**
 - **System Desing Enhancement -> [Project](SystemDesign/SystemDesign.md)**
-- **Data Structure and Algorithm Enhancement -> [Project](DataStructures_Algorithms/DatStructure.md)**
+- **Data Structure and Algorithm Enhancement -> [Project](DataStructures_Algorithms/DataStructure.md)**
 - **Database Enhancement -> [Project](Database/Database.md)**
