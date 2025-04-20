@@ -17,3 +17,9 @@ Through the process of implementing the enhancements I was able to learn more ab
 ## [Original Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/blob/main/OriginalArtifact/InvInq.cpp)
 
 ## [Enhanced Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/tree/main/SoftwareDesign)
+
+
+
+![Enhanced Artifact](/assets/mainMenu.png)
+![Enhanced Artifact](/assets/addItem.png)
+![Enhanced Artifact](/assets/displayItem.png)
