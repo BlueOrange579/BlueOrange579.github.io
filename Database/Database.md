@@ -11,4 +11,8 @@ The reason that I included this artifact in my ePortafolio is because it would b
 
 ## [Original Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/blob/main/OriginalArtifact/InvInq.cpp)
 
+![Original](/assets/original.png)
+
 ## [Enhanced Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/tree/main/Database)
+
+![database](/assets/database.png)
