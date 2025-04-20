@@ -13,4 +13,24 @@ During the process of enhancing the artifact I learned a lot more about working 
 
 ## [Original Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/blob/main/OriginalArtifact/InvInq.cpp)
 
+'''
+// Specification C1 - Dynamic Array
+void Item::set_values(){
+  name = new string[size];
+  quantity= new int[size];
+  cost = new double[size];
+}
+'''
+
 ## [Enhanced Artifact](https://github.com/BlueOrange579/BlueOrange579.github.io/tree/main/DataStructures_Algorithms)
+
+'''
+// Struct to contain the item qty and price
+struct Items{
+    double price;
+    int qty;
+};
+
+/// Map to save all the items
+std::map<std::string, Items> myItems = {};
+'''
