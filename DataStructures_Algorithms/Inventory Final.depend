@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1743007424 source:/home/blueoranges/GameDev/Inventory Final/src/inventory.cpp
+	"inventory.h"
+	"raylib.h"
+	"raygui.h"
+	"item.h"
+	<string>
+
+1742789867 /home/blueoranges/GameDev/Inventory Final/include/inventory.h
+	"raylib.h"
+	"item.h"
+
+1742787788 source:/home/blueoranges/GameDev/Inventory Final/src/main.cpp
+	"inventory.h"
+
+1742788004 source:/home/blueoranges/GameDev/Inventory Final/src/item.cpp
+	"item.h"
+	<string>
+
+1743007634 /home/blueoranges/GameDev/Inventory Final/include/item.h
+	<string>
+	<map>
+
+1741717507 /home/blueoranges/GameDev/Inventory Final/include/raygui.h
+	"raylib.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1742789867 source:/home/blueoranges/GameDev/Inventory Final/include/inventory.h
+	"raylib.h"
+	"item.h"
+
+1743007354 source:/home/blueoranges/GameDev/Inventory Final/include/item.h
+	<string>
+	<map>
+
+1741717507 source:/home/blueoranges/GameDev/Inventory Final/include/raygui.h
+	"raylib.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1743326798 source:/home/blueoranges/GameDev/InventoryFinal/include/inventory.h
+	"raylib.h"
+	<string>
+
+1743327445 /home/blueoranges/GameDev/InventoryFinal/include/item.h
+	<string>
+	<cctype>
+	<map>
+
+1743327445 source:/home/blueoranges/GameDev/InventoryFinal/include/item.h
+	<string>
+	<cctype>
+	<map>
+
+1741717507 source:/home/blueoranges/GameDev/InventoryFinal/include/raygui.h
+	"raylib.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1743326972 source:/home/blueoranges/GameDev/InventoryFinal/src/inventory.cpp
+	"inventory.h"
+	"raylib.h"
+	"raygui.h"
+	"item.h"
+	<sstream>
+	<iomanip>
+	<string>
+
+1743326798 /home/blueoranges/GameDev/InventoryFinal/include/inventory.h
+	"raylib.h"
+	<string>
+
+1741717507 /home/blueoranges/GameDev/InventoryFinal/include/raygui.h
+	"raylib.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1743308107 source:/home/blueoranges/GameDev/InventoryFinal/src/item.cpp
+
+1742787788 source:/home/blueoranges/GameDev/InventoryFinal/src/main.cpp
+	"inventory.h"
+
